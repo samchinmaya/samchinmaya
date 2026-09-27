@@ -20,4 +20,4 @@ Backend developer in the making — I learn by building real projects with **Nod
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-**📫 Reach me:** chinmayasamantara2@gmail.com
+**📫 Reach me:** chinmayasamantara804@gmail.com
