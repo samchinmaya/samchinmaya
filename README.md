@@ -1,57 +1,51 @@
 # 👋 Hi, I'm Chinmaya Samantara!
 
-A passionate **Backend Developer** always learning by building real-world projects. My journey revolves around robust server-side development using JavaScript technologies.
+A passionate **Backend Developer** always learning by building real-world projects using modern JavaScript stacks. My goal is to build scalable and reliable applications.
+
+---
+
+## 🌐 Portfolio Showcase
+
+Check out my current portfolio site for a live glimpse of my work:
+👉 [https://samchinmaya.vercel.app](https://samchinmaya.vercel.app)
 
 ---
 
 ## 🚀 Currently Building Projects
 
-I believe the best way to learn is by doing, so here are a couple of ambitious projects I'm tackling:
+I focus on building complex, real-world systems.
 
 ### 🎬 VideoTube (YouTube Clone Backend)
-Building a backend system similar to YouTube.js. This includes core features like:
-*   **Authentication:** JWT implementation with secure `httpOnly` cookies and refresh tokens.
-*   **File Storage:** Integrating image uploads seamlessly with **Cloudinary**.
-*   **API Design:** Implementing paginated video feed retrieval.
+A backend system featuring secure authentication and rich media handling:
+*   **Auth:** JWT + httpOnly Cookies & Refresh Tokens.
+*   **Media:** Image uploads managed via **Cloudinary**.
+*   **Features:** Paginated video feed API endpoints.
 
 ### 🎟️ BookMyShow Clone
-Working on a robust ticketing platform simulation, focusing on high-concurrency features:
-*   Seat locking mechanisms.
-*   Transaction processing and payments integration logic.
+Simulating a high-concurrency ticketing system, focusing on:
+*   Atomic seat locking and transaction integrity.
+*   Payment flow integration logic.
 
 ---
 
-## 🛠️ Tech Stack & Tools I Use
+## 🛠️ My Tech Stack (The Tools)
 
-I focus on the modern MERN/MEVN stack pattern, primarily using JavaScript for full-stack capability.
+I leverage JavaScript across the stack.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB |
-| **Core Concepts** | REST APIs, JWT Authentication, Asynchronous Programming |
-| **Tools & Services** | Cloudinary, Postman, JavaScript, Git |
-
-*(Note: I'm proficient with these tools and am constantly expanding my knowledge base.)*
+**Core Languages & Runtime:** `JavaScript` | `Node.js` | `Express`
+**Database:** `MongoDB` 💾
+**Authentication/Utility:** `JWT` 🔑 | Cloudinary ☁️
+**Project Management:** Git 🌿 | Postman ✨
 
 ---
 
-## 💡 What I'd Like to Learn Next (Goals)
+## 🎯 Learning Roadmap
 
-Always looking for the next challenge! My current focus areas include:
-*   Scaling transaction pipelines.
-*   Implementing advanced caching strategies (e.g., Redis).
-*   Deepening understanding of microservices architecture.
-
----
-
-## 📧 Get In Touch
-
-Let's connect! I'm eager to collaborate on exciting projects.
-
-*   **Email:** [chinmayasamantara804@gmail.com](mailto:chinmayasamantara804@gmail.com)
-*   **Portfolio Site:** [https://samchinmaya.vercel.app](https://samchinmaya.vercel.app) *(Showcase for my current work!)*
+Always pushing boundaries! Next up:
+*   Scaling data layers with **Redis Caching**.
+*   Diving deeper into Microservices architecture patterns.
+*   Optimizing high-throughput APIs for transactions.
 
 ---
 
-***Thank you for checking out my profile! I look forward to connecting with you.***
+**Connect with me:** `[chinmayasamantara804@gmail.com](mailto:chinmayasamantara804@gmail.com)`
