@@ -7,9 +7,7 @@ A passionate **Backend Developer** learning by building real-world projects usin
 ## 🚀 Featured Portfolio Link (Live)
 
 Check out my current work! This link directs straight to my portfolio site:
-👉 [![View my Portfolio](https://via.placeholder.com/1200x150?text=samchinmaya.vercel.app)](https://samchinmaya.vercel.app)
-
----
+https://samchinmaya.vercel.app
 
 ---
 ## 🛠️ My Core Tech Stack
