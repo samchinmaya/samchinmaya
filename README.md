@@ -11,15 +11,17 @@ Check out my current work! This link directs straight to my portfolio site:
 
 ---
 
-## 🌟 My Tech Stack
-
-I leverage a full-stack JavaScript ecosystem to build robust solutions.
+---
+## 🛠️ My Core Tech Stack
+<!-- Tech stack displayed using Shields.io badges -->
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-269TEB?style=for-the-badge&logo=javascript)](<your_js_link>)
 [![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=nodedotjs)](<your_node_link>)
 [![Express](https://img.shields.io/badge/express-009D7A?style=for-the-badge&logo=express)](<your_express_link>)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)](<your_mongo_link>)
 [![JWT](https://img.shields.io/badge/JWT-0B1F3D?style=for-the-badge&logo=key)](<your_jwt_link>)
+[![Cloudinary](https://img.shields.io/badge/Cloudinary-FF7200?style=for-the-badge&logo=amazoncloud)](https://cloudinary.com/)
+
 
 ---
 
