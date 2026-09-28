@@ -4,48 +4,39 @@ A passionate **Backend Developer** always learning by building real-world projec
 
 ---
 
-## 🌐 Portfolio Showcase
+## 🚀 Featured Portfolio Link (Live)
 
-Check out my current portfolio site for a live glimpse of my work:
-👉 [https://samchinmaya.vercel.app](https://samchinmaya.vercel.app)
+[![View my Portfolio](https://via.placeholder.com/1200x150?text=samchinmaya.vercel.app)](https://samchinmaya.vercel.app)
 
 ---
 
-## 🚀 Currently Building Projects
+## ✨ Who Am I?
 
-I focus on building complex, real-world systems.
+I'm a Backend developer who learns by building. Currently focused on developing **VideoTube**, a YouTube-style video platform backend, and expanding into robust e-commerce/ticketing systems.
 
-### 🎬 VideoTube (YouTube Clone Backend)
-A backend system featuring secure authentication and rich media handling:
-*   **Auth:** JWT + httpOnly Cookies & Refresh Tokens.
-*   **Media:** Image uploads managed via **Cloudinary**.
-*   **Features:** Paginated video feed API endpoints.
-
-### 🎟️ BookMyShow Clone
-Simulating a high-concurrency ticketing system, focusing on:
-*   Atomic seat locking and transaction integrity.
-*   Payment flow integration logic.
+### 🎬 Key Projects
+*   **🎥 VideoTube:** A complete backend system featuring JWT auth, Cloudinary integration for media uploads, and paginated feeds.
+*   **🎟️ BookMyShow Clone:** Simulating high-concurrency seat locking, transaction logic, and payments.
 
 ---
 
 ## 🛠️ My Tech Stack (The Tools)
 
-I leverage JavaScript across the stack.
+I leverage JavaScript across the stack:
 
-**Core Languages & Runtime:** `JavaScript` | `Node.js` | `Express`
-**Database:** `MongoDB` 💾
-**Authentication/Utility:** `JWT` 🔑 | Cloudinary ☁️
-**Project Management:** Git 🌿 | Postman ✨
+*   **Languages & Runtime:** `JavaScript` 💻 | `Node.js` 🌿 | `Express` ✨
+*   **Database:** `MongoDB` 💾
+*   **Utilities:** `JWT` 🔑 | Cloudinary ☁️ | REST API 📡
 
 ---
 
-## 🎯 Learning Roadmap
+## 🧠 Tech Growth Areas
 
-Always pushing boundaries! Next up:
+I am constantly expanding my expertise into:
 *   Scaling data layers with **Redis Caching**.
-*   Diving deeper into Microservices architecture patterns.
-*   Optimizing high-throughput APIs for transactions.
+*   Microservices architecture design.
+*   Advanced transactional workflows.
 
 ---
 
-**Connect with me:** `[chinmayasamantara804@gmail.com](mailto:chinmayasamantara804@gmail.com)`
+**📬 Let's Connect:** `[chinmayasamantara804@gmail.com](mailto:chinmayasamantara804@gmail.com)`
