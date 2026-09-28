@@ -1,23 +1,57 @@
-### Hi, I'm Chinmaya 👋
+# 👋 Hi, I'm Chinmaya Samantara!
 
-Backend developer in the making — I learn by building real projects with **Node.js**, **Express** and **MongoDB**.
+A passionate **Backend Developer** always learning by building real-world projects. My journey revolves around robust server-side development using JavaScript technologies.
 
-**🔨 Currently building**
-- [VideoTube](https://github.com/samchinmaya/video-tube) — a YouTube-style backend with JWT auth (httpOnly cookies + refresh tokens), image uploads to Cloudinary, and paginated video feeds
+---
 
-**🌱 Up next**
-- A BookMyShow clone — seat locking, transactions and payments
+## 🚀 Currently Building Projects
 
-**🛠️ Tools I use**
+I believe the best way to learn is by doing, so here are a couple of ambitious projects I'm tackling:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+### 🎬 VideoTube (YouTube Clone Backend)
+Building a backend system similar to YouTube.js. This includes core features like:
+*   **Authentication:** JWT implementation with secure `httpOnly` cookies and refresh tokens.
+*   **File Storage:** Integrating image uploads seamlessly with **Cloudinary**.
+*   **API Design:** Implementing paginated video feed retrieval.
 
-**📫 Reach me:** chinmayasamantara804@gmail.com
+### 🎟️ BookMyShow Clone
+Working on a robust ticketing platform simulation, focusing on high-concurrency features:
+*   Seat locking mechanisms.
+*   Transaction processing and payments integration logic.
+
+---
+
+## 🛠️ Tech Stack & Tools I Use
+
+I focus on the modern MERN/MEVN stack pattern, primarily using JavaScript for full-stack capability.
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **Core Concepts** | REST APIs, JWT Authentication, Asynchronous Programming |
+| **Tools & Services** | Cloudinary, Postman, JavaScript, Git |
+
+*(Note: I'm proficient with these tools and am constantly expanding my knowledge base.)*
+
+---
+
+## 💡 What I'd Like to Learn Next (Goals)
+
+Always looking for the next challenge! My current focus areas include:
+*   Scaling transaction pipelines.
+*   Implementing advanced caching strategies (e.g., Redis).
+*   Deepening understanding of microservices architecture.
+
+---
+
+## 📧 Get In Touch
+
+Let's connect! I'm eager to collaborate on exciting projects.
+
+*   **Email:** [chinmayasamantara804@gmail.com](mailto:chinmayasamantara804@gmail.com)
+*   **Portfolio Site:** [https://samchinmaya.vercel.app](https://samchinmaya.vercel.app) *(Showcase for my current work!)*
+
+---
+
+***Thank you for checking out my profile! I look forward to connecting with you.***
