@@ -51,16 +51,6 @@ A workflow automation tool inspired by n8n, built from scratch in TypeScript.
 *   **Database:** **PostgreSQL** (Neon) with **Drizzle ORM** schemas and migrations for users, workflows, credentials and executions.
 *   **Coming next:** Job queue with **Redis + BullMQ**, webhook and cron triggers, auth with **better-auth**, and a drag-and-drop editor with **React Flow**.
 
-### 🎬 [VideoTube](https://github.com/samchinmaya/video-tube) (YouTube Clone Backend)
-A complete backend system for video platforms, including:
-*   **Authentication:** JWT with secure `httpOnly` cookies and refresh tokens.
-*   **Media Handling:** Robust image uploads integrated with **Cloudinary**.
-*   **API Design:** Paginated feed generation endpoints.
-
-### 🎟️ [BookMyShow Clone](https://github.com/samchinmaya/BookMyShow)
-Focusing on complex business logic for ticketing:
-*   Seat locking mechanism to prevent double bookings.
-*   Transaction processing and payment flow emulation.
 
 ### 🌐 [Portfolio](https://github.com/samchinmaya/portfolio)
 My personal site, built with **Next.js**, **React**, **TypeScript** and **Tailwind CSS**.
